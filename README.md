@@ -11,6 +11,6 @@
 
 ###
 
-<h3 align="left">I know technologies 💻</h3>
+<h3 align="left">Technologies I know 💻</h3>
 
 ###
