@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  [![ca.jpg](https://i.postimg.cc/d15q1XSJ/ca.jpg)](https://postimg.cc/9Rq3gxhk)
+ <a href="https://postimg.cc/9Rq3gxhk" target="_blank"><img src="https://i.postimg.cc/9Rq3gxhk/ca.jpg" alt="ca"/></a>
 </div>
 
 ###
