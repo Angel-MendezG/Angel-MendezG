@@ -14,3 +14,7 @@
 <h3 align="left">Technologies I know 💻</h3>
 
 ###
+
+<br clear="both">
+
+###
